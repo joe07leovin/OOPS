@@ -1,0 +1,15 @@
+/Users/joeleovin/Documents/DotNet/OOP/bin/Debug/net7.0/OOP
+/Users/joeleovin/Documents/DotNet/OOP/bin/Debug/net7.0/OOP.deps.json
+/Users/joeleovin/Documents/DotNet/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/Users/joeleovin/Documents/DotNet/OOP/bin/Debug/net7.0/OOP.dll
+/Users/joeleovin/Documents/DotNet/OOP/bin/Debug/net7.0/OOP.pdb
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.csproj.AssemblyReference.cache
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.dll
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/refint/OOP.dll
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.pdb
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/Users/joeleovin/Documents/DotNet/OOP/obj/Debug/net7.0/ref/OOP.dll
