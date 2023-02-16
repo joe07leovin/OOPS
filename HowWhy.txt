@@ -1,0 +1,45 @@
+What am i designing this project for 
+
+1. To build  a truck  with various configurations.
+
+What kind of trucks are there ?
+
+A truck can be one of 4 types: 1.Petrol 2.Diesel 3.Hybrid 4.Electric
+
+What are required to build a truck ?
+
+1.Chasis 2.Engine 3.GearBox 4.Wheels 5.Capacity 6.Suspension- base model 
+
+1.Power Drive 2.Full Digital cockpit 3.Choice of suspension - Silver
+
+1.Paint scheme 2.chasis option 3.Silver options - Gold
+
+What is the process to initiate a truck sign off?
+
+1. build from factory -> goes to road test ->Factory sign off -> Safety sign off -> Sales room  - all stake holders are notified at every cycle 
+
+How does safety sign off happen?
+
+1. Drive within a maze 
+
+How the Project is going to be layered 
+
+Build
+1.Single instance to get the options for construction 
+2.Fluent Builder or Abstract Factory to initiate the truck build 
+
+Test
+1. Build an array to act as terrain 0 as path traversal 1 as objects
+2. Truck can be navigated by use of commands North,South,West,East,Straight 
+3. Best case scenario for Command Pattern?
+
+Sign Off process?
+Should follow chain of command while all the stake holders are notified should it be an observer?
+
+Miscellaneous
+Try to incorporate fascade and adapter pattern
+
+Must
+
+Follow SOLID 
+
