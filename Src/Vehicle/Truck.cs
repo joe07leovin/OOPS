@@ -1,8 +1,8 @@
 namespace TruckBuilder;
 
-public class Truck : Vehicle
+public class Trucks : Vehicle
 {
-    public Truck(string name) : base(name)
+    public Trucks(string name) : base(name)
     {
     }
 }
